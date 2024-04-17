@@ -1,6 +1,3 @@
-Absolutely, let's craft a polished README for your project:
-
----
 
 # User Registration & Login System
 
